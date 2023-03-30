@@ -1,2 +1,1 @@
-@echo on
-echo il a
+copy I
